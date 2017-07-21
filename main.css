@@ -1,0 +1,37 @@
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 500px;
+  background-color: orange;
+}
+header {
+  background-color: #4267b2;
+  height: 30px;
+}
+footer {
+  background-color: rgba(0,0,0,0.87);
+  height: 30px;
+  position:relative;
+  top:100px;
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+	height:600px;
+	background-color:#e9bee;
+  
+}
+
+#main { background-color: orange; }
+
+#menu { background-color: pink;}
+
+
+#sidebar { background-color: yellow;}
